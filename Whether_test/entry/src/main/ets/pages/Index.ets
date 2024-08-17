@@ -19,7 +19,7 @@ struct Index {
       // TextInput().onChange((v)=>{
       //   this.city=v
       // })
-      Button('获取数据').onClick(()=>{
+      Button('不要获取数据').onClick(()=>{
 
         router.pushUrl({
           url:'pages/Page',
